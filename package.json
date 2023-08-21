@@ -1,0 +1,28 @@
+{
+  "name": "cwdurl",
+  "version": "1.0.0",
+  "description": "use Current Working Directory as URL",
+  "type": "module",
+  "exports": "./index.mjs",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiviaMedeiros/cwdurl.git"
+  },
+  "keywords": [
+    "nodejs",
+    "process",
+    "cwd",
+    "URL"
+  ],
+  "author": {
+    "name": "LiviaMedeiros",
+    "email": "livia@cirno.name",
+    "url": "https://github.com/LiviaMedeiros"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiviaMedeiros/cwdurl/issues"
+  },
+  "homepage": "https://github.com/LiviaMedeiros/cwdurl#readme"
+}
